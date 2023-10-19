@@ -5,9 +5,19 @@ Jenkins (the Jenkins Project) is an open-source automation server that provides 
 Jenkins is built on top of Java Virtual Machine (JVM). Therefore, Java Development kit needs to be installed for Jenkins to work.
 
 # Table of Contents
-- [Section 1: Installation and Setup](#sec1-installation-and-setup)
- -[Installing Jenkins](#sec1-installing-jenkins)
+* [Installation and Setup](#installation-and-setup)
+    * [Installing Jenkins](#installing-jenkins)
+    * [Initial Setup](#initial-setup)
+* [Creating Jobs](#creating-jobs)
+    * [Accessing Jenkins Dashboard](#accessing-jenkins-dashboard)
 
-# Section 1: Installation and Setup {#sec1-installation-and-setup}
 
-## Installing Jenkins {#sec1-installing-jenkins}
+# Installation and Setup
+
+## Installing Jenkins
+
+## Initial Setup
+
+# Creating Jobs
+
+## Accessing Jenkins Dashboard
