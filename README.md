@@ -21,6 +21,7 @@ There is a brief instruction file for installing Jenkins on Ubuntu/Debian platfo
 ## Initial Setup
 
 # Using Jenkins
+The materials related to this section are in the directory [installation_and_setup](https://github.com/bikarnap/jenkins-tutorial/tree/master/using_jenkins "Using Jenkins materials").
 
 ## Accessing Jenkins Dashboard
 
