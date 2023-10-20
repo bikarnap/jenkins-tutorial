@@ -14,7 +14,7 @@ Jenkins is built on top of Java Virtual Machine (JVM). Therefore, Java Developme
 
 
 # Installation and Setup
-
+The materials related to this section are in the directory [installation_and_setup](https://github.com/bikarnap/jenkins-tutorial/tree/master/installation_and_setup "Installation and setup materials").
 ## Installing Jenkins
 There is a brief instruction file for installing Jenkins on Ubuntu/Debian platform. There is also a link to a YouTube video tutorial. After the installation is complete, the next step is the intial setup of Jenkins so that we can start using the Jenkins automation server.
 
