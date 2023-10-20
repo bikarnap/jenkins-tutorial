@@ -31,7 +31,7 @@ After filling the form, click on the _Save and Continue_ button.
 ## Instance Configuration
 In this step, we need to provide the Jenkins URL. It also suggests a default URL. At this stage, accepting the default URL should be fine unless there is a reason to change it. The Instance Confiuration that is shown on the browser window is as shown in Picture 5.
 
-![Picture 5. Instance Configuration](../screenshots/getting_started_instance_configuration.jpg "Instance Configuration")
+![Picture 5. Instance Configuration](../screenshots/getting_started_jenkins_instance_configuration.jpg "Instance Configuration")
 
 Finally click on the _Save and Finish_ button.
 
