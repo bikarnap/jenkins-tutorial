@@ -10,6 +10,7 @@ Jenkins is built on top of Java Virtual Machine (JVM). Therefore, Java Developme
     * [Initial Setup](#initial-setup)
 * [Creating Jobs](#creating-jobs)
     * [Accessing Jenkins Dashboard](#accessing-jenkins-dashboard)
+* [Video Tutorial Links](#video-tutorial-links)
 
 
 # Installation and Setup
@@ -22,3 +23,7 @@ There is a brief instruction file for installing Jenkins on Ubuntu/Debian platfo
 # Creating Jobs
 
 ## Accessing Jenkins Dashboard
+
+# Video Tutorial Links
+* [Jenkins installation on Ubuntu/Debian](https://www.youtube.com/watch?v=YVG1vaPAKak&t=15s&ab_channel=LearnTeachShare "Tutorial video on Jenkins installation on Ubuntu/Debian")
+* [Initial Setup of Jenkins](https://www.youtube.com/watch?v=dRprQhS0fdg&ab_channel=LearnTeachShare "Tutorial video on initial setup of Jenkins")
