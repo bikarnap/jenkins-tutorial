@@ -5,7 +5,7 @@ Jenkins provides two main approaches for defining and configuring pipelines: Dec
 A Declarative Pipeline is a high-level syntax for defining your pipeline in Jenkins. It is designed to be simpler and more human-readable, making it a great choice for straightforward build and deployment processes.
 
 An example of Declarative Pipeline is as follows:
-'''
+```
 pipeline {
     agent any
     stages {
@@ -26,7 +26,7 @@ pipeline {
         }
     }
 }
-'''
+```
 
 ### Key Features of Declarative Pipeline
 - Simplicity: Declarative pipelines are concise and easy to read, making them suitable for straightforward CI/CD tasks.
@@ -37,7 +37,7 @@ pipeline {
 A Scripted Pipeline, on the other hand, provides more flexibility and power. It allows you to write Groovy code directly in your pipeline script, giving you full control over your build and deployment processes. Scripted pipelines are ideal for complex and customized scenarios.
 
 An example of Scripted Pipeline is as follows:
-'''
+```
 node {
     stage('Build') {
         sh 'echo "Building the application"'
@@ -49,7 +49,7 @@ node {
         sh 'echo "Deploying the application"'
     }
 }
-'''
+```
 
 ### Key Features of Scripted Pipeline
 - Flexibility: Scripted pipelines offer complete flexibility, allowing you to write Groovy code to customize your pipeline.
