@@ -1,0 +1,8 @@
+#!/bin/bash
+JAVA_HOME=/usr/lib/jvm/bellsoft-java8-full-amd64
+TERM=xterm-color
+JENKINS_SECRET=94b951e8b4541ee65f7a56b242751750cc37efc3e74ac22f10c5102b17bf9db1
+JENKINS_JNLP_URL=https://jenkins_url/manage/computer/node_name/jenkins-agent.jnlp
+
+export JENKINS_SECRET
+export JENKINS_JNLP_URL

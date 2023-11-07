@@ -1,0 +1,13 @@
+[Unit]
+Description=Jenkins slave
+After=network.target syslog.target
+ 
+[Service]
+EnvironmentFile=/etc/default/jenkins
+User=jenkins
+Group=jenkins
+ExecStart=/usr/lib/jvm/bellsoft-java8-full-amd64/bin/java -jar /var/jenkins/agent.jar -jnlpUrl ${JENKINS_JNLP_URL} -secret ${JENKINS_SECRET} -workDir "/var/jenkins"
+PrivateTmp=false
+ 
+[Install]
+WantedBy=multi-user.target

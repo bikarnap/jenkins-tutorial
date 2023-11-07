@@ -1,0 +1,31 @@
+<!--
+  Windows service definition for Jenkins agent.
+  This service is powered by the WinSW project: https://github.com/kohsuke/winsw/
+
+  You can find more information about available options here: https://github.com/kohsuke/winsw/blob/master/doc/xmlConfigFile.md
+  Configuration examples are available here: https://github.com/kohsuke/winsw/tree/master/examples
+
+  To uninstall, run "jenkins-slave.exe stop" to stop the service, then "jenkins-slave.exe uninstall" to uninstall the service.
+  Both commands don't produce any output if the execution is successful.
+-->
+
+<service>
+  <id>jenkinsslave_service</id>
+  <name>jenkinsslave_service</name>
+  <description>This service connects to the Jenkins controller continuously.</description>
+  <env name="JENKINS_HOME" value="%BASE%"/>
+  <executable>C:\Program Files\OpenJDK\jre-11.0.16.8-hotspot\bin\java.exe</executable>
+  <arguments>-Xrs  -jar "%BASE%\agent.jar" -jnlpUrl http://192.168.205.224:8080/manage/computer/example%5Fnode/jenkins-agent.jnlp -secret 49877a05fea840dadd7c64c6f42cc0f941080fcc051630edc08b27e52e1db2cf</arguments>
+  <log mode="rotate"></log>
+
+  <download from="http://192.168.205.224:8080/jnlpJars/agent.jar" to="%BASE%\agent.jar"/>
+
+  <onfailure action="restart" delay="20 sec"/>
+  <serviceaccount>
+    <username>replace with username</username>
+    <password>replace with password</password>
+    <allowservicelogon>true</allowservicelogon>
+  </serviceaccount>
+</service>
+
+
