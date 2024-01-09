@@ -26,5 +26,6 @@ The materials related to this section are in the directory [installation_and_set
 ## Accessing Jenkins Dashboard
 
 # Video Tutorial Links
-* [Jenkins installation on Ubuntu/Debian](https://www.youtube.com/watch?v=YVG1vaPAKak&t=15s&ab_channel=LearnTeachShare "Tutorial video on Jenkins installation on Ubuntu/Debian")
-* [Initial Setup of Jenkins](https://www.youtube.com/watch?v=dRprQhS0fdg&ab_channel=LearnTeachShare "Tutorial video on initial setup of Jenkins")
+* [Jenkins installation on Ubuntu/Debian](https://youtu.be/YVG1vaPAKak "Tutorial video on Jenkins installation on Ubuntu/Debian")
+* [Initial Setup of Jenkins](https://youtu.be/dRprQhS0fdg "Tutorial video on initial setup of Jenkins")
+* [Jenkins Dashboard and User interface](https://youtu.be/tllInX8dD4U "Jenkins Dashboard and User interface")
