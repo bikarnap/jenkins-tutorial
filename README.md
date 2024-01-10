@@ -30,3 +30,4 @@ The materials related to this section are in the directory [installation_and_set
 * [Initial Setup of Jenkins](https://youtu.be/dRprQhS0fdg "Tutorial video on initial setup of Jenkins")
 * [Jenkins Dashboard and User interface](https://youtu.be/tllInX8dD4U "Jenkins Dashboard and User interface")
 * [Jenkins Freestyle Job - Simple](https://www.youtube.com/watch?v=RcCUoDG_OC4 "Jenkins Freestyle Job - Simple")
+* [Jenkins Freestyle Job - with Artifact](https://youtu.be/BkM8h3avN8M "Jenkins Freestyle Job - with Artifacts")
