@@ -32,3 +32,4 @@ The materials related to this section are in the directory [installation_and_set
 * [Jenkins Freestyle Job - Simple](https://www.youtube.com/watch?v=RcCUoDG_OC4 "Jenkins Freestyle Job - Simple")
 * [Jenkins Freestyle Job - with Artifact](https://youtu.be/BkM8h3avN8M "Jenkins Freestyle Job - with Artifacts")
 * [Jenkins Freestyle Job with SCM integration](https://youtu.be/GuR2tNVVhOc "Jenkins Freestyle Job with SCM integration")
+* [Creating a Jenkins Linux Node](https://youtu.be/I6Sb1ndxtOc "Creating a Jenkins Linux Node")
