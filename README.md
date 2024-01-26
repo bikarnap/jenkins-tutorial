@@ -2,7 +2,7 @@
 
 Jenkins (the Jenkins Project) is an open-source automation server that provides hundreds of plugins to support building, deploying, and automating any project. It is supported by a large and growing community of developers, testers, designers, and other people interested in continuous integration, continuous delivery, and modern software delivery practices.
 
-Jenkins is built on top of Java Virtual Machine (JVM). Therefore, Java Development kit needs to be installed for Jenkins to work.
+Jenkins is built on top of Java Virtual Machine (JVM). Therefore, a Java Development kit needs to be installed for Jenkins to work.
 
 # Table of Contents
 * [Installation and Setup](#installation-and-setup)
@@ -16,7 +16,7 @@ Jenkins is built on top of Java Virtual Machine (JVM). Therefore, Java Developme
 # Installation and Setup
 The materials related to this section are in the directory [installation_and_setup](https://github.com/bikarnap/jenkins-tutorial/tree/master/installation_and_setup "Installation and setup materials").
 ## Installing Jenkins
-There is a brief instruction file for installing Jenkins on Ubuntu/Debian platform. There is also a link to a YouTube video tutorial. After the installation is complete, the next step is the intial setup of Jenkins so that we can start using the Jenkins automation server.
+There is a brief instruction file for installing Jenkins on the Ubuntu/Debian platform. There is also a link to a YouTube video tutorial. After the installation is complete, the next step is the initial setup of Jenkins so that we can start using the Jenkins automation server.
 
 ## Initial Setup
 
@@ -33,3 +33,4 @@ The materials related to this section are in the directory [installation_and_set
 * [Jenkins Freestyle Job - with Artifact](https://youtu.be/BkM8h3avN8M "Jenkins Freestyle Job - with Artifacts")
 * [Jenkins Freestyle Job with SCM integration](https://youtu.be/GuR2tNVVhOc "Jenkins Freestyle Job with SCM integration")
 * [Creating a Jenkins Linux Node](https://youtu.be/I6Sb1ndxtOc "Creating a Jenkins Linux Node")
+* [Pipelines and Jenkinsfile](https://youtu.be/UFctZKYxypc "Pipelines and Jenkinsfile")
