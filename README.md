@@ -35,3 +35,4 @@ The materials related to this section are in the directory [installation_and_set
 * [Creating a Jenkins Linux Node](https://youtu.be/I6Sb1ndxtOc "Creating a Jenkins Linux Node")
 * [Pipelines and Jenkinsfile](https://youtu.be/UFctZKYxypc "Pipelines and Jenkinsfile")
 * [Create a Jenkins agent as a service on Linux node](https://youtu.be/meXR-DpO_Kk "Create a Jenkins agent as a service on Linux node")
+* [Upgarde Jenkins](https://youtu.be/yjllMwQz5B4 "Upgrade Jenkins")
