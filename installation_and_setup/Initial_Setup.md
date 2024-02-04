@@ -58,4 +58,4 @@ Click on the _Start using jenkins_ button. This will take us to the Jenkins Dash
 *Picture 7. Jenkins Dashboard*
 
 
-This is all for the initial setup tutorial. In the next tutorial, we will get acquainted to the Jenkins Dashboard and its user interface (UI).
+This is all for the initial setup tutorial. In the next tutorial, we will get acquainted to the Jenkins Dashboard and its user interface (UI). You can also follow this [direct link](../using_jenkins/know_jenkins_dashboard.md "direct link").

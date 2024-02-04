@@ -1,2 +1,4 @@
 # Job involving GitHub
 We can also pull the source code from git repository such as GitHub and build a job based on a source file. Generally, the code that the Jenkins node need to execute is stored in version control repository such as GitHub. So, Git is an essential part in the automation done using Jenkins. However, before we can pull the contents from GitHub, we need to add credentials in our Jenkins controller so that Jenkins controller can communicate with the GitHub server.
+
+Refere to this [YouTube](https://youtu.be/BkM8h3avN8M "YouTube") video tutorial for creating a Freestyle Job and integrating it with Git and GitHub.

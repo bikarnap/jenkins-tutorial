@@ -1,4 +1,8 @@
 # Create a node
+There is also a [YouTube](https://youtu.be/I6Sb1ndxtOc "YouTube") video tutorial on creating a Linux node in Jenkins.
+
+There is another [YouTube](https://youtu.be/meXR-DpO_Kk "YouTube") video tutorial on creating a Jenkins agene as a service on a Linux node.
+
 A node can be created from the Jenkins browser UI.
 
 Navigate to the nodes page Manage Jenkins > Nodes and Clouds.
@@ -17,5 +21,14 @@ At the end, click on the _Save_ button. This will take us to the newly created n
 and setup the port. Click on the link that is provided, which will navigate to the Security page. In that page there is a section called Agents. Under Agents > TCP port for inbound agents, the option disabled is selected. Select Fixed option and give a port number such as 9009 and click on the _Save_ button. The option Random option can also be chosen, if you want the system to randomly choose a port.
 
 ![Picture. Screenshot showing JNLP port not configured](../screenshots/jenkins_node_jnlp_port_error.jpg "Jenkins node configuration screenshot")
+
+
+# Next
+Next we will look into Pipelines  in Jenkins. The following links have materials related to Pipelines.
+1. [Pipeline in Jenkins](../../pipeline/Pipeline.md "Pipeline in Jenkins")
+2. [Pipeline Key Concepts](../../pipeline/Pipeline_Key_Concepts.md "Pipeline Key Concepts")
+3. [Piepline Types - Declarative and Scripted](../../pipeline/Declarative_vs_Scripted_Pipeline.md "Pipeline Types - Declarative and Scripted")
+
+There is also a [YouTube](https://youtu.be/UFctZKYxypc "YouTube") video tutorial on creating a Pipeline.
 
 
