@@ -84,4 +84,4 @@ This chapter basically provides a link to YouTube that has tutoria on upgrading 
 * [Upgarde Jenkins](https://youtu.be/yjllMwQz5B4 "Upgrade Jenkins")
 
 # Known Issues in the Tutorial Materials
-The sound quality of the video tutorials might not be good for all. So, it is recommended to either increase the volume or use an earphone/headpohne.
+The sound quality of the video tutorials might not be good for all. So, it is recommended to either increase the volume or use an earphone/headphone.
