@@ -6,17 +6,17 @@ All the Jenkins nodes including the built-in node can be viewed under _Manage Je
 If there has not been any agent setup, the _Manage Jenkins_ page shows a message to setup an agent. This can be used to setup a agent. 
 
 Navigate to the Jenkins nodes page and click on the _+ New Node_ button as shown in the screenshot Picture.
-![+ New Node button](../pictures/jenkins_nodes_page.jpg "+ new Node button")
+![+ New Node button](../screenshots/jenkins_nodes_page.jpg "+ new Node button")
 
-![New Node setup](../pictures/jenkins_new_node_setup_step_1.jpg "New Node setup")
+![New Node setup](../screenshots/jenkins_new_node_setup_step_1.jpg "New Node setup")
 
-![Node configuration availability](../pictures/jenkins_node_setup_config_availability.jpg "Node configuration availabiltiy")
+![Node configuration availability](../screenshots/jenkins_node_setup_config_availability.jpg "Node configuration availabiltiy")
 
-![Node configuration launch method](../pictures/jenkins_node_setup_config_launch_method.jpg "Node configuration launch method")
+![Node configuration launch method](../screenshots/jenkins_node_setup_config_launch_method.jpg "Node configuration launch method")
 
-![Node configuration launch method controller](../pictures/jenkins_node_setup_config_launch_method_controller.jpg "Node configuration launch method congroller")
+![Node configuration launch method controller](../screenshots/jenkins_node_setup_config_launch_method_controller.jpg "Node configuration launch method congroller")
 
-![New node page](../pictures/jenkins_nodes_page_with_newly_setup_node.jpg "New node page")
+![New node page](../screenshots/jenkins_nodes_page_with_newly_setup_node.jpg "New node page")
 
 Save the node setup configuration. The newly setup node can be now visible on the Nodes page with an icon showing a cross. If we click on the node name, it takes us to a page that provides instruction on connecting to the Jenkins controller. However, a port needs to be defined for the agents to connect before the instruction can be seen. For this purpose, navigate to _Manage Jenkins > Configure Global Security > Agents_ and define a port for example as shown in the screenshot Picture. Here a fixed port is chosen, however, a random port can also be chosen. After this, the configuration needs to be saved by clicking the _Click_ button at the bottom of the page.
 
