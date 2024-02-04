@@ -23,6 +23,8 @@ sudo apt-get update
 ```
 sudo apt-get install openjdk-11-jre
 ```
+__Note: At the time of creating this tutorial, Java 11 was supported. For example support for Java 11 will end after September 2024. Refer to https://www.jenkins.io/download/ for updated Java version support information.__
+
 5. Finally install Jenkins:
 ```
 sudo apt-get install jenkins
@@ -56,8 +58,11 @@ If the output is similar to shown above, Jenkins installation succeeded.
 
 Another way to see that Jenkins has been installed and running as a service on Ubuntu/Debian,
 open a web browser and type in the address http://localhost:8080. Replace localhost with the IP address of the server if applicable.
-The browser should render something similar to the picture shown as follows:
-![Jenkins fresh look](../screenshots/getting_started_unlock_jenkins.jpg "Getting started unlock jenkins")
+The browser should render something similar to the Picture 1.
 
-One thing to note here is that Jenkins has been only installed at this point. Further initial setup needs to be completed in order to start using the Jenkins automation server.
+![Jenkins fresh look](../screenshots/getting_started_unlock_jenkins.jpg "Getting started unlock jenkins")
+*Picture 1. Jenkins installed confirmation using a browser*
+
+
+One thing to note here is that Jenkins has been only installed at this point. Further initial setup needs to be completed in order to start using the Jenkins automation server. For that purpose refer to [Initial Setup](https://github.com/bikarnap/jenkins-tutorial/blob/master/installation_and_setup/Initial_Setup.md "Initial Setup")
 
