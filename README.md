@@ -20,6 +20,7 @@ Go through the following texts to learn about Jenkins and gain the beginner's le
 * [Jenkins plugins](#jenkins-plugins)
 * [Upgrade Jenkins](#upgrade-jenkins)
 * [Video Tutorial Links](#video-tutorial-links)
+* [Known Issues in the tutorial materials](#known-issues-in-the-tutorial-materials)
 
 
 # Installation and Setup
@@ -81,3 +82,6 @@ This chapter basically provides a link to YouTube that has tutoria on upgrading 
 * [Pipelines and Jenkinsfile](https://youtu.be/UFctZKYxypc "Pipelines and Jenkinsfile")
 * [Create a Jenkins agent as a service on Linux node](https://youtu.be/meXR-DpO_Kk "Create a Jenkins agent as a service on Linux node")
 * [Upgarde Jenkins](https://youtu.be/yjllMwQz5B4 "Upgrade Jenkins")
+
+# Known Issues in the Tutorial Materials
+The sound quality of the video tutorials might not be good for all. So, it is recommended to either increase the volume or use an earphone/headpohne.
