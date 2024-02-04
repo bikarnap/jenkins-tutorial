@@ -1,4 +1,4 @@
-# Jenkins Tutorial
+# Jenkins Tutorial for Beginners
 
 Jenkins (the Jenkins Project) is an open-source automation server that provides hundreds of plugins to support building, deploying, and automating any project. It is supported by a large and growing community of developers, testers, designers, and other people interested in continuous integration, continuous delivery, and modern software delivery practices.
 
