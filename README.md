@@ -45,7 +45,7 @@ This chapter has examples on jobs as well as each job example has link to its re
 2. [Freestyle job involving artifacts](./jobs/archieveArtifacts.md "arhieveArtifacts.md")
 3. [Freestyle job involving Git and GitHub integration](./jobs/integrateGitAndGitHub.md)
 
-# Jenkins piplelines
+# Jenkins pipelines
 
 Get to know about Jenkins pipelines from [here](./pipeline/ "Pipelines")
 
