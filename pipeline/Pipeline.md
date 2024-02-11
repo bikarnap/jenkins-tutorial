@@ -63,4 +63,4 @@ pipeline {
 
 The stages and steps can be defined in the stages section according to your project's requirements.
 
-For an example walkthrough of creating a Jenkins Pipeline, visit [YouTube](https://youtu.be/UFctZKYxypc "Pipelines and Jenkinsfile").
+For an example walkthrough of creating a Jenkins Pipeline, visit [Pipelines and Jenkinsfile](https://youtu.be/UFctZKYxypc "Pipelines and Jenkinsfile").
