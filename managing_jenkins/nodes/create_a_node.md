@@ -13,7 +13,7 @@ Click on the _+ New Node_ button. This takes us to the page where we can provide
 
 After this we will be navigated to the Node configuration page. A screenshot of the configuration page is shown in Picture.
 
-![Picture. Screenshot showing Jenkins node configuration](../../screenshots/jenkins_node_config_screenshot.jpg "Jenkins node configuration screenshot")
+![Picture. Screenshot showing Jenkins node configuration](../../screenshots/jenkins_node_config_launch_method.jpg "Jenkins node configuration screenshot")
 
 In the configuration page, the most important thing to enter is the remote directory where all the Jenkins job related directories and files are created during the execution of the job. In other words, the remote directory contains the workspace of a job. It is common to enter the remote directory as /var/jenkins for Linux nodes and C:\jenkins for Windows nodes. Let's say we are creating a Linux node, then in the Remote root diretory enter /var/jenkins. There is also a Number of executors field which is 1 by default. We will leave this as well as all other fields with their default values.
 
